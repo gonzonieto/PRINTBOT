@@ -24,3 +24,5 @@ const arrayFlattenerWithText = (arr) => {
   return arr;
 };
 module.exports = { arrayFlattenerWithText };
+
+arrayFlattenerWithText();
